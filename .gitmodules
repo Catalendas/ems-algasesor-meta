@@ -7,3 +7,6 @@
 [submodule "microservices/.temperature-management"]
 	path = microservices/.temperature-management
 	url = https://github.com/Catalendas/ems-algasesor-temperature-management.git
+[submodule "device-management"]
+	path = device-management
+	url = https://github.com/Catalendas/ems-algasesor-temperature-management.git
